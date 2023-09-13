@@ -1,9 +1,9 @@
 const userData = {
-  githubUsername: "manuarora700",
-  name: "Manu Arora",
+  githubUsername: "cmedinadeveloper",
+  name: "Carlos Medina",
   designation: "Full-Stack Developer",
-  avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
+  avatarUrl: "/avatar.jpg",
+  email: "cmedina.developer@gmail.com",
   phone: "+91 9587738861",
   address: "Jaipur, Rajasthan, India.",
   projects: [
